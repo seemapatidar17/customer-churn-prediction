@@ -20,12 +20,6 @@ Users can input customer information and receive a **real-time churn probability
 
 ---
 
-## 🎥 Live Project Walkthrough
-
-👉 https://www.youtube.com/watch?v=RKXDvzcKWL0
-
----
-
 ## 🚀 Live Demo
 
 Streamlit App:  
